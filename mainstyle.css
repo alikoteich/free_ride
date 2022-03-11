@@ -1,0 +1,30 @@
+body {
+    width: 100%;
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(background.jpg);
+    background-position: center;
+    background-size: cover;
+    
+}
+
+.add-ride-btn{
+    text-align: center;
+    margin-top: 20px;
+    color:#008B8B;  
+      
+}
+
+.view-ride-btn{
+    text-align: center;
+    margin-top: 20px;
+    color:#008B8B; 
+            
+}
+
+.search-bar{
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 705px;
+    color:#008B8B;  
+      
+}
